@@ -1,0 +1,3 @@
+[submodule "flmatrix"]
+	path = flmatrix
+	url = https://github.com/soegaard/flmatrix.git
